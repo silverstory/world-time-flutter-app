@@ -33,7 +33,7 @@ class _LoadingState extends State<Loading> {
       body: Center(
         child: SpinKitFadingCube(
           color: Colors.white,
-          size: 80.0,
+          size: 60.0,
         ),
       ),
     );
